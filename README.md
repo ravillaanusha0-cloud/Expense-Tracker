@@ -14,3 +14,5 @@ category-wise analysis and persistent storage.
 - JSON
 
 ## Run
+##Output
+[expense tracker output](screenshots/output.png)
